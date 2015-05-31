@@ -1,3 +1,14 @@
-WP Random Image
+#WP Random Image
+===============
 
-I developed this plugin so that I could display a random product image in the footer (but really anywhere you want) that would change every time the page is loaded.  This is great for displaying featured products, new products, or sale items.
+This is my first Wordpress plugin.  I developed this plugin so that I could display a random product image in the footer (but really anywhere you want) that would change every time the page is loaded.  This is great for displaying featured products, new products, or sale items.
+
+## Installation & Usage
+
+1. Copy the `wp-random-image` folder into your `wp-content/plugins` directory of your install.
+2. Upload your images to the '/images' folder
+3. Place the shortcode *[wprandomimg]* 
+
+## Future Development
+
+I plan to extend this, or more likely just start fresh, and make this into a widget and integrate selecting images from the media manager.
